@@ -1,0 +1,250 @@
+{
+ "meta": {
+  "area": "Presidência - Superintendência Negócios Digitais, Marketing e Experiência do Cooperado",
+  "tipo": "Relatório de monitoramento de crise",
+  "titulo": "Recuperação judicial da Apex Partners",
+  "singular": "Sicoob ES",
+  "inicio": "2026-08-10",
+  "edicao": "",
+  "periodoIni": "",
+  "periodoFim": "2026-10-06T09:00",
+  "atualizacao": "2026-10-06T09:00",
+  "rodape": "Documento interno · Sicoob — não redistribuir fora do ambiente autorizado."
+ },
+ "risco": {
+  "nivel": "Alto",
+  "tend": "estavel",
+  "desc": "Uma singular é parte no processo e destinatária de ordem judicial. Monitoramento várias vezes ao dia."
+ },
+ "status": {
+  "nivel": "Em desdobramento",
+  "tend": "estavel",
+  "desc": "O pico passou, mas a decisão do juiz sobre a recuperação e as garantias ainda está por vir."
+ },
+ "novas": {
+  "qtd": "0",
+  "ultima": "04/10 (ES Hoje)"
+ },
+ "gerais": "",
+ "mudou": {
+  "destaque": "Sem fatos novos desde a edição anterior.",
+  "texto": "Últimas menções no fim de semana (03 e 04/10): o ES Hoje noticiou a decisão que deu 24 horas ao Sicoob Sul-Serrana para liberar o acesso às contas do grupo, e o pedido da cooperativa à Justiça para reter valores de operações com garantia real."
+ },
+ "significa": {
+  "protag": "Parte envolvida",
+  "texto": "O Sicoob aparece como credor que defende garantias, não como causador da crise; o foco da cobertura é a Apex. Ponto de atenção: alegação de investidores (15/09) de que um galpão foi vinculado, sem autorização, a limite de crédito de R$ 134 milhões no Sicoob."
+ },
+ "diario": [
+  {
+   "data": "2026-08-09",
+   "imprensa": "3",
+   "instagram": "",
+   "x": "",
+   "facebook": "",
+   "linkedin": "",
+   "youtube": ""
+  },
+  {
+   "data": "2026-08-10",
+   "imprensa": "4",
+   "instagram": "1",
+   "x": "1",
+   "facebook": "",
+   "linkedin": "",
+   "youtube": ""
+  },
+  {
+   "data": "2026-08-11",
+   "imprensa": "4",
+   "instagram": "1",
+   "x": "",
+   "facebook": "1",
+   "linkedin": "",
+   "youtube": ""
+  },
+  {
+   "data": "2026-08-12",
+   "imprensa": "4",
+   "instagram": "",
+   "x": "1",
+   "facebook": "",
+   "linkedin": "",
+   "youtube": "1"
+  },
+  {
+   "data": "2026-08-13",
+   "imprensa": "2",
+   "instagram": "",
+   "x": "",
+   "facebook": "",
+   "linkedin": "1",
+   "youtube": ""
+  },
+  {
+   "data": "2026-08-14",
+   "imprensa": "1",
+   "instagram": "",
+   "x": "",
+   "facebook": "",
+   "linkedin": "",
+   "youtube": ""
+  },
+  {
+   "data": "2026-08-27",
+   "imprensa": "1",
+   "instagram": "1",
+   "x": "",
+   "facebook": "",
+   "linkedin": "",
+   "youtube": ""
+  },
+  {
+   "data": "2026-08-28",
+   "imprensa": "1",
+   "instagram": "",
+   "x": "",
+   "facebook": "",
+   "linkedin": "",
+   "youtube": ""
+  },
+  {
+   "data": "2026-08-31",
+   "imprensa": "1",
+   "instagram": "",
+   "x": "",
+   "facebook": "",
+   "linkedin": "",
+   "youtube": ""
+  },
+  {
+   "data": "2026-09-01",
+   "imprensa": "1",
+   "instagram": "",
+   "x": "",
+   "facebook": "",
+   "linkedin": "",
+   "youtube": ""
+  },
+  {
+   "data": "2026-09-16",
+   "imprensa": "1",
+   "instagram": "1",
+   "x": "",
+   "facebook": "",
+   "linkedin": "",
+   "youtube": ""
+  },
+  {
+   "data": "2026-10-03",
+   "imprensa": "1",
+   "instagram": "",
+   "x": "",
+   "facebook": "",
+   "linkedin": "",
+   "youtube": ""
+  },
+  {
+   "data": "2026-10-04",
+   "imprensa": "1",
+   "instagram": "",
+   "x": "",
+   "facebook": "",
+   "linkedin": "",
+   "youtube": ""
+  }
+ ],
+ "timeline": [
+  {
+   "data": "Data a confirmar",
+   "texto": "Decisão do juiz sobre o pedido de recuperação e análise das garantias, contrato a contrato.",
+   "tipo": "proximo"
+  },
+  {
+   "data": "03 e 04/10",
+   "texto": "ES Hoje: perícia aponta falhas no pedido da Apex; cooperativas, entre elas o Sicoob Sul-Serrana, pedem para reter garantias",
+   "tipo": "neutra"
+  },
+  {
+   "data": "03/10",
+   "texto": "ES Hoje: decisão dá 24 horas ao Sicoob Sul-Serrana para liberar o acesso às contas do grupo ao administrador interino",
+   "tipo": "negativa"
+  },
+  {
+   "data": "15/09",
+   "texto": "Folha Vitória e @folhavitoria: investidores alegam vínculo de galpão, sem autorização, a limite de crédito de R$ 134 milhões no Sicoob",
+   "tipo": "negativa"
+  },
+  {
+   "data": "14/09",
+   "texto": "Apex apresenta o pedido de recuperação judicial",
+   "tipo": "contexto"
+  },
+  {
+   "data": "10/09",
+   "texto": "25 investidores do galpão Apex Log I pedem que o empreendimento fique fora da recuperação",
+   "tipo": "contexto"
+  },
+  {
+   "data": "07/09",
+   "texto": "Assembleia destitui o ex-presidente do conselho e elege três novos membros",
+   "tipo": "contexto"
+  },
+  {
+   "data": "09 a 13/08",
+   "texto": "Primeira onda de cobertura: 24 menções ao Sicoob em cinco dias",
+   "tipo": "aclass"
+  },
+  {
+   "data": "07/08",
+   "texto": "Apex anuncia “inconsistências financeiras”; Marcelo Murad Brumana assume a presidência",
+   "tipo": "contexto"
+  }
+ ],
+ "imprensa": {
+  "nenhum": false,
+  "rows": [],
+  "leitura": ""
+ },
+ "contexto": {
+  "revisao": "2026-10-06",
+  "manchete": "O Sicoob não está no centro da pauta: o foco é a Apex, sua gestão e a disputa com investidores. A marca aparece como credora, ao lado de BTG Pactual e Daycoval.",
+  "papel": "Credor do grupo Apex. O Sicoob Sul-Serrana tem operações com garantia real com empresas do grupo e é parte no processo: recebeu ordem judicial para liberar o acesso às contas ao administrador interino e pede que as garantias fiquem fora da recuperação.",
+  "centro": "A Apex Partners, os ex-sócios e o administrador interino, Marcelo Murad Brumana. A perícia (Laspro Consultores) e os investidores dos empreendimentos imobiliários são as vozes mais ouvidas.",
+  "gatilhos": [
+   {
+    "texto": "Matéria em veículo nacional com o Sicoob no título",
+    "acionado": false
+   },
+   {
+    "texto": "Nova decisão judicial desfavorável à cooperativa ou notícia de descumprimento",
+    "acionado": false
+   },
+   {
+    "texto": "Manifestação de cooperados ou investidores dirigida ao Sicoob nas redes",
+    "acionado": false
+   },
+   {
+    "texto": "Acionamento por veículo de alcance nacional",
+    "acionado": false
+   }
+  ]
+ },
+ "anexos": [
+  {
+   "rede": "Imprensa",
+   "veiculo": "ES Hoje · Economia",
+   "titulo": "Recuperação Judicial: perícia diz que grupo Apex Partners escondeu detalhes de dívidas",
+   "pub": "2026-10-03",
+   "coleta": "2026-10-04T16:00",
+   "autoria": "Danieleh Coutinho",
+   "link": "",
+   "protag": "Parte envolvida",
+   "tom": "Neutra",
+   "posicao": "parte 3 de 3",
+   "resumo": "Cooperativas de crédito, como o Sicoob Sul-Serrana, foram à Justiça para voltar a cobrar e reter valores de empréstimos à Apex, alegando garantias reais que, por lei, ficam fora da recuperação. A perícia afirma que caberá ao juiz decidir contrato a contrato.",
+   "nota": "Grafia oficial: a matéria escreve “Sicoob Sul Serrano”; nos campos acima usamos “Sicoob Sul-Serrana”.",
+   "prints": []
+  }
+ ],
+ "logo": null
+}
